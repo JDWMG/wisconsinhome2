@@ -5,6 +5,9 @@
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <UserSecretsId>9b947a37-f524-4095-9614-05e2ccc2fa89</UserSecretsId>
+    <ApplicationIcon />
+    <OutputType>WinExe</OutputType>
+    <StartupObject>wisconsinhome.Program</StartupObject>
   </PropertyGroup>
 
 
